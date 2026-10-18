@@ -36,7 +36,7 @@ El notebook contiene comparación de modelos, curvas de entrenamiento y evaluaci
 
 ## Contenido
 
-- `notebooks/`: notebook del proyecto (por añadir).
+- [`histopathology_deep_learning_portfolio.ipynb`](histopathology_deep_learning_portfolio.ipynb): notebook del proyecto.
 - `requirements.txt`: bibliotecas principales.
 - `.gitignore`: exclusiones de datasets, modelos y archivos locales.
 
