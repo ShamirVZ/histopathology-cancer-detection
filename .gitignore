@@ -1,0 +1,21 @@
+# Datasets / resultados grandes o privados
+*.zip
+*.tif
+*.tiff
+*.keras
+*.h5
+*.hdf5
+*.ckpt
+*.csv
+!examples/*.csv
+results/
+dataset/
+data/
+# Entornos y archivos locales
+.env
+.env.*
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
